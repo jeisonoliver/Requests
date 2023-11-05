@@ -1,0 +1,5 @@
+tipo_pesquisa: processo
+termo_pesquisa: 0000034-12.2007.8.18.0047
+partes: 
+status: 
+movimentacoes: 
